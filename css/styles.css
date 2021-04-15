@@ -1,0 +1,15 @@
+
+
+.album{
+    cursor: pointer;
+}
+.hiden{
+    display: none;
+}
+.photos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.photos>div{width: 150px;height: 150px;
+margin-right: 3px;
+margin-top: 3px;}
